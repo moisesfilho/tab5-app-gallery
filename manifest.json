@@ -6,7 +6,7 @@
   "description": "Galeria de fotos do cartão microSD com navegação, exclusão e atalho para a câmera.",
   "entry": "app.wasm",
   "icon_symbol": "LV_SYMBOL_IMAGE",
-  "icon_bg_color": "#10B981",
+  "icon_bg_color": "#F472B6",
   "file_associations": [".jpg", ".jpeg", ".png", ".bmp"],
   "permissions": [
     "storage.readwrite"
